@@ -1,0 +1,28 @@
+.checkout{
+    background-color: rgb(234, 237, 237);
+    display: flex;
+    background-color: white; 
+}
+.checkout_left{
+    width: 65%;
+    background-color: white;
+    margin: 3%;
+}
+.checkout_top_banner{
+    margin: 10px;
+}
+.checkout_top_banner > img{
+    width: 100%;
+    
+}
+.price_title{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+    font-size: medium;
+}
+.checkout_right{
+    width: 35%;
+    margin: 25px;
+    padding: 5px;
+}
